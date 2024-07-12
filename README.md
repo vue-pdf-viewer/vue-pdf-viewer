@@ -20,6 +20,7 @@
   
   Available for: Vue.js (3.0^), Nuxt (3.0^)
 
+![NPM Version](https://img.shields.io/npm/v/%40vue-pdf-viewer%2Fviewer)
 [![Twitter](https://img.shields.io/twitter/follow/VuePDF?label=VuePDF&style=social)][twitter]
 
 </div>
