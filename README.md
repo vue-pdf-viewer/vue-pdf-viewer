@@ -20,7 +20,7 @@
   
   Available for: Vue.js (3.0^), Nuxt (3.0^)
 
-![NPM Version](https://img.shields.io/npm/v/%40vue-pdf-viewer%2Fviewer)
+[![NPM Version](https://img.shields.io/npm/v/%40vue-pdf-viewer%2Fviewer)][npm]
 [![Twitter](https://img.shields.io/twitter/follow/VuePDF?label=VuePDF&style=social)][twitter]
 
 </div>
@@ -95,3 +95,4 @@ If you would like to use Vue PDF Viewer commercially, please purchase a license 
 [twitter]: https://x.com/VuePDF
 [vuepdfviewer]: https://www.vue-pdf-viewer.dev
 [vuepdfviewer-docs]: https://docs.vue-pdf-viewer.dev
+[npm]: https://www.npmjs.com/package/@vue-pdf-viewer/viewer
