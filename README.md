@@ -81,7 +81,7 @@ We are more than happy to help you. If you have any questions, run into any erro
 
 # :page_facing_up: License
 
-Vue PDF Viewer is distributed under our proprietary license. Please refer to our [License page](https://www.vue-pdf-viewer/license-agreement) file for more details.
+Vue PDF Viewer is distributed under our proprietary license. Please refer to our [License page](https://www.vue-pdf-viewer.dev/license-agreement) file for more details.
 
 If you would like to use Vue PDF Viewer commercially, please purchase a license from [our website][vuepdfviewer] or reach out to us directly at [david@vue-pdf-viewer.dev](mailto:david@vue-pdf-viewer.dev).
 
