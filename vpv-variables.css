@@ -1,0 +1,107 @@
+.vpv-variables {
+  /* Base styles */
+  --vpv-base-z-index: 1;
+  --vpv-base-radius: 4px;
+  --vpv-base-border-color: #e2e6e9;
+  --vpv-font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  /* Viewer container */
+  --vpv-container-border-color: rgba(0, 0, 0, 0.3);
+  /* Loader */
+  --vpv-loader-backdrop-color: rgba(255, 255, 255, 0.8);
+  --vpv-loader-animation-name: spin;
+  /* Toolbar */
+  --vpv-toolbar-size: 48px;
+  --vpv-toolbar-background-color: rgba(226, 230, 233, 1);
+  --vpv-toolbar-color: rgba(28, 32, 36, 1);
+  --vpv-toolbar-border-color: rgba(198, 204, 210, 1);
+  --vpv-icon-active-background: rgba(0, 0, 0, 0.1);
+  /* Sidebar */
+  --vpv-sidebar-content-background-color: rgba(250, 250, 250, 1);
+  --vpv-sidebar-content_thumbnail-page-number-font-size: 12px;
+  --vpv-sidebar-content_thumbnail-focused-border-color: rgba(0, 0, 0, 0.2);
+  /* Drop file mask */
+  --vpv-drop-zone-border: #c6ccd2;
+  --vpv-drop-zone-background: #fafafa;
+  /* PDF Pages Content*/
+  --vpv-pages-container-background: rgba(250, 250, 250, 1);
+  --vpv-text-layer-text__selection-background-color: rgba(255, 255, 0, 1);
+  --vpv-text-layer-text__current-selection-background-color: rgba(255, 0, 0, 1);
+  --vpv-annotation-layer__link-hover-background: rgba(255, 255, 0, 0.2);
+  /* Popover */
+  --vpv-popover-background-color: #f1f2f4;
+  --vpv-popover-color: var(--vpv-toolbar-color);
+  --vpv-popover-border-color: var(--vpv-base-border-color);
+  /* Menu Dropdown */
+  --vpv-dropdown-menu-content-background: rgba(241, 242, 244, 1);
+  --vpv-dropdown-menu-content-border-color: rgba(198, 204, 210, 1);
+  --vpv-dropdown-menu-content-menu-hover-background: rgba(0, 0, 0, 0.1);
+  --vpv-dropdown-menu-content-separator-background: rgba(226, 230, 233, 1);
+  --vpv-dropdown-separator: #e2e6e9;
+  /* Search Input */
+  --vpv-input-background-color: white;
+  --vpv-input-border-color: 120, 98, 255;
+  --vpv-input-placeholder-color: #c6ccd2;
+  /* Modal of PDF Properties */
+  --vpv-properties-content-background: var(--vpv-dropdown-menu-content-background);
+  --vpv-properties-content-secondary-color: #596673;
+  --vpv-properties-content-border-color: var(--vpv-dropdown-menu-content-border-color);
+  --vpv-properties-content-color: var(--vpv-toolbar-color);
+  --vpv-properties-separator: var(--vpv-dropdown-separator);
+  --vpv-properties-header: #1c2024;
+  --vpv-properties-font-size: 14px;
+  --vpv-overlay-background: rgba(0, 0, 0, 0.8);
+  /* Modal of Print Progress */
+  --vpv-print-progress-background: var(--vpv-dropdown-menu-content-background);
+  /* Tooltip */
+  --vpv-tooltip-z-index: 50;
+  --vpv-tooltip-background: #1c2024;
+  --vpv-tooltip-color: #ffffff;
+  --vpv-tooltip-border-color: transparent;
+}
+/* Dark Appearance*/
+.vpv-variables.vpv-variables__dark {
+    /* Base styles */
+    --vpv-base-border-color: #2d3339;
+    /* Viewer container */
+    --vpv-container-border-color: rgba(0, 0, 0, 1);
+    /* Loader */
+    --vpv-loader-backdrop-color: rgba(0, 0, 0, 0.8);
+    /* Toolbar */
+    --vpv-toolbar-background-color: rgba(45, 51, 57, 1);
+    --vpv-toolbar-color: white;
+    --vpv-toolbar-border-color: rgba(89, 102, 115, 1);
+    /* Sidebar */
+    --vpv-sidebar-content-background-color: rgba(28, 32, 36, 1);
+    --vpv-sidebar-content_thumbnail-focused-border-color: rgba(255, 255, 255, 0.3);
+    /* Drop file mask */
+    --vpv-drop-zone-background: #1c2024;
+    --vpv-drop-zone-border: #434c56;
+    /* PDF Pages Content*/
+    --vpv-pages-container-background: rgba(28, 32, 36, 1);
+    /* Popover */
+    --vpv-popover-background-color: #434c56;
+    --vpv-popover-color: var(--vpv-toolbar-color);
+    --vpv-popover-border-color: var(--vpv-base-border-color);
+    /* Menu Dropdown */
+    --vpv-dropdown-menu-content-background: rgba(67, 76, 86, 1);
+    --vpv-dropdown-menu-content-menu-hover-background: rgba(0, 0, 0, 0.1);
+    --vpv-dropdown-menu-content-separator-background: rgba(45, 51, 57, 1);
+    --vpv-dropdown-menu-content-border-color: rgba(67, 76, 86, 1);
+    --vpv-dropdown-separator: #2d3339;
+    /* Search Input */
+    --vpv-input-background-color: #1c2024;
+    --vpv-input-border-color: 255, 255, 255;
+    --vpv-input-placeholder-color: #596673;
+    /* Modal of PDF Properties */
+    --vpv-properties-content-background: var(--vpv-dropdown-menu-content-background);
+    --vpv-properties-content-secondary-color: #c6ccd2;
+    --vpv-properties-content-color: var(--vpv-toolbar-color);
+    --vpv-properties-separator: var(--vpv-dropdown-separator);
+    --vpv-properties-header: white;
+    /* Modal of Print Progress */
+    --vpv-print-progress-background: var(--vpv-dropdown-menu-content-background);
+    /* Tooltip */
+    --vpv-tooltip-background: #5b6d7f;
+    --vpv-tooltip-color: #ffffff;
+    --vpv-tooltip-border-color: transparent;
+  }
