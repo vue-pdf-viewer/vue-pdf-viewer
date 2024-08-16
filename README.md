@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://www.vue-pdf-viewer.dev/" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/img/vue-pdf-viewer_logo_light.jpg" width="500">
+      <source srcset="./assets/img/vue-pdf-viewer_logo_light.jpg" width="500">
       <img alt="Vue PDF Viewer" src="./assets/img/vue-pdf-viewer_logo_light.jpg width="500">
     </picture>
   </a>
