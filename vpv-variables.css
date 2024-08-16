@@ -60,6 +60,10 @@
   --vpv-tooltip-background: #1c2024;
   --vpv-tooltip-color: #ffffff;
   --vpv-tooltip-border-color: transparent;
+  /* input error */
+  --vpv-error-color: #ff2f61;
+  /* outline */
+  // --vpv-outline-color: rgba(120, 98, 255);
 }
 /* Dark Appearance*/
 .vpv-variables.vpv-variables__dark {
@@ -107,4 +111,6 @@
     --vpv-tooltip-background: #5b6d7f;
     --vpv-tooltip-color: #ffffff;
     --vpv-tooltip-border-color: transparent;
+    /* outline */
+    // --vpv-outline-color: rgba(255, 255, 255);
   }
