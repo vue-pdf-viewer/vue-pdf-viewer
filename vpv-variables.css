@@ -5,7 +5,10 @@
   --vpv-base-border-color: #e2e6e9;
   --vpv-font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
   /* Viewer container */
+  --vpv-container-border-width: 0px;
+  --vpv-container-border-style: solid;
   --vpv-container-border-color: rgba(0, 0, 0, 0.3);
+  --vpv-container-width-sm: 768px;
   /* Loader */
   --vpv-loader-backdrop-color: rgba(255, 255, 255, 0.8);
   --vpv-loader-animation-name: spin;
