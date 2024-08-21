@@ -71,7 +71,10 @@ Here are some sample projects to get started on Vue PDF Viewer quickly:
 2. [Vue – Options API - TypeScript](https://github.com/vue-pdf-viewer/starter-vpv-options-ts)
 3. [Vue – Composition API - JavaScript](https://github.com/vue-pdf-viewer/starter-vpv-composition-js)
 4. [Vue – Options API - JavaScript](https://github.com/vue-pdf-viewer/starter-vpv-options-js)
-5. [Nuxt - TypeScript](https://github.com/vue-pdf-viewer/starter-vpv-nuxt-ts)
+5. [Vue – SSR - TypeScript](https://github.com/vue-pdf-viewer/starter-vpv-ssr-vue-ts)
+6. [Nuxt - TypeScript](https://github.com/vue-pdf-viewer/starter-vpv-nuxt-ts)
+7. [VitePress](https://github.com/vue-pdf-viewer/starter-vpv-vitepress)
+8. [Quasar](https://github.com/vue-pdf-viewer/starter-vpv-quasar)
 
 
 # :raising_hand: Need Help?
