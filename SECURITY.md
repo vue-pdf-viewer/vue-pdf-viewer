@@ -8,8 +8,6 @@ In your email, please includes as much of the information listed below as you ca
 
 * The type of issue (e.g., dependencies security risk)
 
-* The location of the affected source code (tag/branch/commit or direct URL)
-
 * Step-by-step instructions to reproduce the issue
 
 * If you have a fix, feel free to include those details.
