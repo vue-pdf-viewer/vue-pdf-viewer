@@ -12,6 +12,6 @@ In your email, please includes as much of the information listed below as you ca
 
 * If you have a fix, feel free to include those details.
 
-We will evaluate the vulnerability, contact you for more information if necessary, and release a fix once prepared. We will reach out to you once the vulnerability is confirmed and the mitigation is released. We'll also credit you for the report, if you choose to have your involvement known publicly.
+We will evaluate the vulnerability, contact you for more information if necessary, and release a fix once prepared. We will reach out to you once the vulnerability is confirmed and the mitigation is released.
 
 We kindly ask that you don't disclose or discuss the vulnerability publicly until a fix or mitigation path has been released.
