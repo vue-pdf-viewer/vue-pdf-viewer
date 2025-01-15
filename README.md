@@ -32,6 +32,8 @@
 - **Modern Browser Compatibility**: Works seamlessly across modern browsers, eliminating compatibility headaches.
 - **Active Development & Support**: With regular updates and a responsive support team, Vue PDF Viewer evolves to meet developer needs.
 
+https://github.com/user-attachments/assets/bdeea015-2535-4c98-961b-cd2625ad6d3d
+
 # 📜 Background
 
 As developers ourselves, we faced many issues such as browser incompatibility and customizability while trying to render a PDF document or working with PDF libraries. Having faced issues using PDF libraries, we want the solution to be flexible for Vue.js developers and teams. More importantly, the technical document must be easy to use!
