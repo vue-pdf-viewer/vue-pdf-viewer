@@ -32,7 +32,9 @@
 - **Modern Browser Compatibility**: Works seamlessly across modern browsers, eliminating compatibility headaches.
 - **Active Development & Support**: With regular updates and a responsive support team, Vue PDF Viewer evolves to meet developer needs.
 
-https://github.com/user-attachments/assets/bdeea015-2535-4c98-961b-cd2625ad6d3d
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7eb8006c-af4e-4430-b005-515167ef65cd" alt="VPV_Demo">
+</p>
 
 # 📜 Background
 
