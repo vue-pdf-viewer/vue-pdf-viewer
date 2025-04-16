@@ -63,9 +63,10 @@
   --vpv-properties-content-color: var(--vpv-toolbar-color);
   --vpv-properties-separator: var(--vpv-dropdown-separator);
   --vpv-properties-header: #1c2024;
-  --vpv-password-content-background: white;
   --vpv-properties-font-size: 14px;
   --vpv-overlay-background: rgba(0, 0, 0, 0.8);
+  /* Modal of Password */
+  --vpv-password-content-background: white;
   /* Modal of Print Progress */
   --vpv-print-progress-background: var(--vpv-dropdown-menu-content-background);
   /* Tooltip */
@@ -73,10 +74,18 @@
   --vpv-tooltip-background: #1c2024;
   --vpv-tooltip-color: #ffffff;
   --vpv-tooltip-border-color: transparent;
+  /* Comments */
+  --vpv-comments-sidebar-width: 300px;
+  --vpv-comments-total-badge-background: #f1f2f4;
+  --vpv-comments-comment-block-focus-background: #0000000d;
+  --vpv-comments-reply-comment-left-border-color: #e2e6e9;
+  --vpv-comments-reply-comment-max-height: 1000px;
   /* Common */
+  --vpv-primary-color: #7862ff;
+  --vpv-secondary-color: #596673;
   --vpv-error-color: #ff2f61;
+  --vpv-outline-color: inherit;
 }
-
 .vpv-variables.vpv-variables__dark {
   /* Dark Appearance */
   /* Base styles */
@@ -123,6 +132,7 @@
   --vpv-properties-content-color: var(--vpv-toolbar-color);
   --vpv-properties-separator: var(--vpv-dropdown-separator);
   --vpv-properties-header: white;
+  /* Modal of Password */
   --vpv-password-content-background: #1c2024;
   /* Modal of Print Progress */
   --vpv-print-progress-background: var(--vpv-dropdown-menu-content-background);
@@ -130,4 +140,10 @@
   --vpv-tooltip-background: #5b6d7f;
   --vpv-tooltip-color: #ffffff;
   --vpv-tooltip-border-color: transparent;
+  /* Comments */
+  --vpv-comments-total-badge-background: #434c56;
+  --vpv-comments-comment-block-focus-background: #ffffff0d;
+  --vpv-comments-reply-comment-left-border-color: #2d3339;
+  /* Common */
+  --vpv-secondary-color: #c6ccd2;
 }
