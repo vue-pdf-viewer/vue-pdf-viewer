@@ -28,6 +28,7 @@
 - **Tailored for Vue.js & Nuxt.js**: Vue PDF Viewer is native to Vue.js, ensuring smooth integration into your projects.
 - **Customizability at Its Core**: Built with flexibility in mind, allowing you to match your application’s unique style and functionality.
 - **High-Performance & Rapid Rendering**: Optimized for rendering large PDFs efficiently, Vue PDF Viewer delivers lightning-fast load times with features like virtual scrolling.
+- **Annotation Support**: With the annotation plugin, users can highlight, add free text, and export annotated PDFs for collaboration and review.
 - **Accessibility & Localization**: Designed with inclusivity in mind, Vue PDF Viewer supports ARIA attributes and localized tooltips, catering to diverse user bases.
 - **Modern Browser Compatibility**: Works seamlessly across modern browsers, eliminating compatibility headaches.
 - **Active Development & Support**: With regular updates and a responsive support team, Vue PDF Viewer evolves to meet developer needs.
@@ -49,6 +50,7 @@ As developers ourselves, we faced many issues such as browser incompatibility an
 - ⚡ **High-Performance Rendering** to load large PDF documents quickly and handle complex elements like vector graphics with ease.
 - 🔧 **Programmatic Control with Instance APIs**, allowing you to interact with the viewer programmatically.
 - 🖋️ **Form Support for XFA and AcroForms** to seamlessly display interactive PDF forms.
+- 🖊️ **Annotation Tools** for text highlighting, free text annotations, and customizable styles, with options to save updates into new PDFs.
 - 🌍 **Localization Support** to translate tooltips and text into your preferred language for an inclusive experience.
 - 📂 **Document Management Tools**, including features like downloading and printing.
 - 👁️ **Accessibility Support** to built-in support for ARIA attributes and localized tooltips, catering to diverse user bases.
