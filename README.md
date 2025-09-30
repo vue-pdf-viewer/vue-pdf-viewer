@@ -34,7 +34,7 @@
 - **Active Development & Support**: With regular updates and a responsive support team, Vue PDF Viewer evolves to meet developer needs.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7eb8006c-af4e-4430-b005-515167ef65cd" alt="VPV_Demo">
+  <img src="https://github.com/user-attachments/assets/6e56e49a-18ea-49aa-a6eb-9008443e7228" alt="VPV_Demo">
 </p>
 
 # 📜 Background
