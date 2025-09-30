@@ -187,7 +187,7 @@ For detailed usage, refer to our [Documentation][vuepdfviewer-docs].
 
 Vue PDF Viewer supports annotations via a separate plugin that enables users to create and manage annotations directly within the viewer. Features include text highlighting, free text annotations, and customizable options such as color, font, and opacity. Annotations can be saved by printing the PDF or exporting it with the updates applied.
 
-See our [Annotation Plugin](https://docs.vue-pdf-viewer.dev/annotation-plugin/overview.html) documentation for setup and usage.
+See our [Annotation Plugin](https://docs.vue-pdf-viewer.dev/annotation-plugin/overview.html?utm_source=github) documentation for setup and usage.
 
 # :pushpin: Starter Toolkit
 
