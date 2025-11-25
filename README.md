@@ -215,6 +215,7 @@ If you would like to use Vue PDF Viewer commercially, please purchase a license 
 # Acknowledgement
 
 - [pdf.js](https://github.com/mozilla/pdf.js)
+- [node-forge](https://github.com/digitalbazaar/forge)
 - [Img Shields](https://shields.io)
 - [Vue.js](https://vuejs.org/) — We're proud to support the Vue ecosystem as a Gold Sponsor.
 
@@ -223,6 +224,8 @@ If you would like to use Vue PDF Viewer commercially, please purchase a license 
     <img src="./assets/img/vue-gold-sponsor.webp" alt="Gold Sponsor of Vue.js">
   </a>
 </p>
+
+For detailed third-party license information, see [THIRD_PARTY_LICENSES.md](./THIRD_PARTY_LICENSES.md).
 
 [twitter]: https://x.com/VuePDF
 [vuepdfviewer]: https://www.vue-pdf-viewer.dev/?utm_source=github
