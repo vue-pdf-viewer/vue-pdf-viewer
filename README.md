@@ -217,13 +217,7 @@ If you would like to use Vue PDF Viewer commercially, please purchase a license 
 - [pdf.js](https://github.com/mozilla/pdf.js)
 - [node-forge](https://github.com/digitalbazaar/forge)
 - [Img Shields](https://shields.io)
-- [Vue.js](https://vuejs.org/) — We're proud to support the Vue ecosystem as a Gold Sponsor.
-
-<p align="left">
-  <a href="https://vuejs.org/sponsor/">
-    <img src="./assets/img/vue-gold-sponsor.webp" alt="Gold Sponsor of Vue.js">
-  </a>
-</p>
+- [Vue.js](https://vuejs.org/)
 
 For detailed third-party license information, see [THIRD_PARTY_LICENSES.md](./THIRD_PARTY_LICENSES.md).
 
