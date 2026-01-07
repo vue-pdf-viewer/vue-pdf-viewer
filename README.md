@@ -202,6 +202,10 @@ Here are some sample projects to get started on Vue PDF Viewer quickly:
 7. [VitePress](https://github.com/vue-pdf-viewer/starter-vpv-vitepress)
 8. [Quasar](https://github.com/vue-pdf-viewer/starter-vpv-quasar)
 
+# 📝 Changelog
+
+Check out our latest release [v3.6.1 (25 December 2025)](https://docs.vue-pdf-viewer.dev/introduction/changelog.html#viewer-v3-6-1-25-december-2025)
+
 # :raising_hand: Need Help?
 
 We are more than happy to help you. If you have any questions, run into any errors or face any problems, please feel free to create an issue in [Issues](../../issues) or PM us directly in [Twitter][twitter]. Anything related to VPV is on the table!
