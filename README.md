@@ -204,7 +204,7 @@ Here are some sample projects to get started on Vue PDF Viewer quickly:
 
 # 📝 Changelog
 
-Check out our latest release [v3.7.0 (28 January 2026)](https://docs.vue-pdf-viewer.dev/introduction/changelog.html#viewer-v3-7-0-28-january-2026?utm_source=github&utm_medium=referral)
+Check out our latest release [v3.7.1 (3 February 2026)](https://docs.vue-pdf-viewer.dev/introduction/changelog.html#viewer-v3-7-1-3-february-2026?utm_source=github&utm_medium=referral)
 
 # :raising_hand: Need Help?
 
