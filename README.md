@@ -75,9 +75,32 @@ _Remark:_
 
 ### Browser support
 
+Starting from [`@vue-pdf-viewer/viewer@^4.0.0`](https://www.npmjs.com/package/@vue-pdf-viewer/viewer), we officially support PDF.js 5 and default to PDF.js `5.4.530`.
+
+As newer PDF.js versions rely on more modern browser APIs, minimum supported browser versions have changed. Please review the compatibility details below before choosing a PDF.js version.
+
+#### Default (PDF.js 5.4.530)
+
+React PDF Kit v2.0.0 defaults to PDF.js `5.4.530`.
+
 | Chrome | Firefox | Edge | Safari | Safari iOS | Chrome Android |
 | ------ | ------- | ---- | ------ | ---------- | -------------- |
-| 115+   | 115+    | 115+ | 16.5+  | 16.5+      | 126+           |
+| 126+   | 126+    | 126+ | 18.4+  | 18.4+      | 126+           |
+
+<Aside>
+It's currently not recommended to use a PDF.js worker version beyond `5.4.530` because it will support fewer browser versions.
+</Aside>    
+
+#### Using PDF.js 4.10.38
+
+If you need broader browser compatibility, you can continue using PDF.js `4.10.38`, which supports:
+
+| Chrome | Firefox | Edge | Safari | Safari iOS | Chrome Android |
+| ------ | ------- | ---- | ------ | ---------- | -------------- |
+| 119+   | 115+    | 115+ | 17.4+  | 17.4+      | 126+           |
+
+To change the version of PDF.js used, refer to [Overriding Dependency](https://docs.vue-pdf-viewer.dev/usage-guide/overriding-dependency.html?utm_source=github&utm_medium=referral) guide.
+
 
 ## 2. Install the Package
 
@@ -118,7 +141,7 @@ To avoid version mismatch, please add pnpm.overrides to your package.json to spe
 ```json
 "pnpm": {
   "overrides": {
-    "pdfjs-dist": "4.4.168"
+    "pdfjs-dist": "5.4.394"
   }
 }
 ```
